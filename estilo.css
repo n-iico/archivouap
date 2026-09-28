@@ -102,6 +102,20 @@ td { padding: 9px 12px 9px 0; border-bottom: 1px solid var(--linea); vertical-al
 }
 .boletin button:hover { opacity: .9; }
 
+/* donación */
+.billetera { margin: 10px 0 16px; }
+.billetera code {
+  display: inline-block; font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 15px; letter-spacing: .02em; word-break: break-all; line-height: 1.5;
+  background: var(--acento-suave); border: 1px solid var(--linea);
+  border-radius: 6px; padding: 12px 15px; color: var(--tinta);
+}
+.boton {
+  display: inline-block; font-size: 15px; font-weight: 550; text-decoration: none;
+  background: var(--acento); color: var(--papel); padding: 10px 20px; border-radius: 5px;
+}
+.boton:hover { opacity: .9; }
+
 /* pie */
 .pie { border-top: 1px solid var(--linea); margin-top: 55px; padding: 26px 0 45px;
   font-size: 14px; color: var(--tenue); }
