@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://registroaustral.org/sitemap.xml
+Sitemap: https://archivouap.org/sitemap.xml
