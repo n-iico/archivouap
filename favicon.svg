@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#1c4b70"/>
+  <ellipse cx="32" cy="36" rx="23" ry="6.5" fill="none" stroke="#7fb0d8" stroke-width="2.4"/>
+  <text x="32" y="45" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+        font-size="42" font-weight="600" fill="#fbfaf8">A</text>
+</svg>
